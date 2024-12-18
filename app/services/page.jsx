@@ -55,6 +55,18 @@ const services = [
     desc: "Piyush Garg | Hitesh Choudhary",
     href: "",
   },
+  {
+    num: "09",
+    title: "GIT | GITHUB",
+    desc: "Piyush Garg | Hitesh Choudhary",
+    href: "",
+  },
+  {
+    num: "10",
+    title: "REST API | Postman",
+    desc: "",
+    href: "Piyush Garg | Hitesh Choudhary",
+  },
 ];
 
 import { motion } from 'framer-motion';
