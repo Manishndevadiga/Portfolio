@@ -137,6 +137,15 @@ const skills = {
       icon: <SiMysql />,
       name: "MySQL",
     },
+    {
+      icon: <FaPostman />,
+      name: "Postman",
+    },
+    {
+      icon: <FaGitAlt />,
+      name: "Git",
+    },
+
   ]
 }
 
